@@ -27,10 +27,10 @@
 <img width="642" height="182" alt="image" src="https://github.com/user-attachments/assets/fdbafc41-9ec9-4d13-a1a4-d0db27a4700b" />
 
 ## Cost function and gradient equation
-- The cost function is used to measure the error of the model. The goal is to minimize the cost function in order to minimize the error. 
-<img width="294" height="65" alt="image" src="https://github.com/user-attachments/assets/729227be-0b2c-48f6-8305-6512568b88a5" /> 
-- The minimazation is implemented using gradient descent, a converging algorithm used to minimize convex (bowl-shaped) functions. 
-<img width="319" height="58" alt="image" src="https://github.com/user-attachments/assets/a875339b-3359-4b4c-a619-6d8dc735d6f2" />
+- The cost function is used to measure the error of the model. The goal is to minimize the cost function in order to minimize the error.  
+<img width="294" height="65" alt="image" src="https://github.com/user-attachments/assets/729227be-0b2c-48f6-8305-6512568b88a5" />  
+- The minimazation is implemented using gradient descent, a converging algorithm used to minimize convex (bowl-shaped) functions.  
+<img width="319" height="58" alt="image" src="https://github.com/user-attachments/assets/a875339b-3359-4b4c-a619-6d8dc735d6f2" />  
 
 ## L2 (ridge) regularization
 - l2 regularization, also called as ridge regularization is used in order to minimize overfitting in the model and capture the actual trend.  
